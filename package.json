@@ -1,38 +1,16 @@
 {
   "name": "my-node-project",
   "version": "1.0.0",
-  "description": "",
-  "main": "program.js",
   "type": "module",
-  "license": "AGPL-version-3.0",
-  "private": false,
-  "engines": {
-    "node": ">= 14.0.0",
-    "npm": ">= 6.0.0"
-  },
-  "homepage": "",
-  "repository": {
-    "type": "git",
-    "url": ""
-  },
-  "bugs": "",
-  "keywords": [],
-  "author": {
-    "name": "",
-    "email": "",
-    "url": ""
-  },
-  "contributors": [
-
-  ],
+  "description": "My first node project",
+  "main": "program.js",
   "scripts": {
-    "dev": "",
-    "test": ""
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-
-  },
-  "devDependencies": {
-
-  }
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "Josh Archer",
+  "license": "ISC"
 }
