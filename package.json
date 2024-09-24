@@ -1,8 +1,8 @@
 {
-  "name": "",
+  "name": "my-node-project",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "program.js",
   "type": "module",
   "license": "AGPL-version-3.0",
   "private": false,
